@@ -11,8 +11,23 @@ body {
     font-family: Arial;
 }
 
-div {
-    margin-top: 50px;
+.box {
+    margin-top: 100px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+.studente_box {
+    margin-bottom: 100px;
+}
+
+.studenti_box {}
